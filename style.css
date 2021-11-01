@@ -19,14 +19,17 @@
    img{
      width: 250px;
      height: 200px;
-     display: flex;
-     align-items: center;
-     justify-content: center;
+    
    }
   
    .logo{
      width: 70px;
      height: 70px;
    }
+  
+   .cons{
+     display: none;
+   }
+
   }
 
