@@ -1,0 +1,32 @@
+@media screen and (max-width:640px) {
+  body{
+    width: 100%;
+    
+  }
+
+
+   .carousel-inner{
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   }
+
+   .display-4 {
+    margin-top: 50px !important;
+   }
+
+   img{
+     width: 250px;
+     height: 200px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+   }
+  
+   .logo{
+     width: 70px;
+     height: 70px;
+   }
+  }
+
